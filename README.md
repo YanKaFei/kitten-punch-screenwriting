@@ -1,5 +1,6 @@
 ## 目录结构
 
+```
 小猫揍人编剧强化skill v1.0.0
 
 ├── SKILL.md                      # 主说明与完整工作流
@@ -19,6 +20,7 @@
 ├── VERSION
 ├── MANIFEST.txt
 └── SHA256SUMS
+```
 
 ## 核心能力
 
