@@ -1,0 +1,14 @@
+小猫揍人编剧强化 Skill v1.0.0
+SKILL.md
+references/concept-film.md
+references/natural-chinese.md
+references/vertical-drama.md
+runtime/story-state.md
+runtime/evidence-qc.md
+runtime/promise-payoff.md
+runtime/repair-protocol.md
+tests/regression-cases.md
+scripts/validate_skill.py
+VERSION
+MANIFEST.txt
+SHA256SUMS

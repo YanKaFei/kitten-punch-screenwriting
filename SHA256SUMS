@@ -1,0 +1,12 @@
+ddac76712878ce31b17ea1083bff2045a7de697043ff32efd55f324585ecef59  ./MANIFEST.txt
+4d70b8a26573b428a8b673150406972806a25b568c679b9351b4bf9a231c007d  ./SKILL.md
+59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03  ./VERSION
+13d4408a19abc1c9b2829292c3204857e6329e679d467e5afbdf871b5d1a956a  ./references/concept-film.md
+1459144a574d91ddfabaa57564ffb1d4f704f6869691bb1570c681fe7274e5bd  ./references/natural-chinese.md
+62cfb885a532cc41ebb5e70b3365cc079f85e453f28da4b904c2f026d6d5ad4e  ./references/vertical-drama.md
+c44fc52e08d45ecf8a109b25df18509f09d06c3ff2a8bab03ac695af092bdeb2  ./runtime/evidence-qc.md
+d77eb878838598cad78323665922320a52e688cacfaeff5431837769158e03b8  ./runtime/promise-payoff.md
+67ef0adb2e5efedb45c9ff6df50fdbab309b9442166c168145ee89241aec280f  ./runtime/repair-protocol.md
+a4be582f2f38c047e8c574f567067ccc1b17f09347c6c3792cd603542f98fdb6  ./runtime/story-state.md
+e4fd2da9c4629f8f59bc611ab45f5321243d0f3ee82d745bbf45d8d76915408f  ./scripts/validate_skill.py
+fef0c63639fc092aacb4cd324558c4abbf057fea7f6da2b35bc00f0f07d3bb01  ./tests/regression-cases.md
